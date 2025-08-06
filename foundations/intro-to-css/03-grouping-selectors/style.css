@@ -1,0 +1,17 @@
+.black.yellow{
+    font-size: 28px;
+    font-family: "Helvetica","times new roman", serif;
+}
+
+.black{
+    background-color: black;
+    color: white;
+}
+
+.yellow{
+    background-color: #ccff00;
+    color: black;
+}
+*{
+    text-align: center;
+}
